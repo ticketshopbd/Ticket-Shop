@@ -46,3 +46,19 @@ body{
 .nav-link:hover{
     color:#dc3545 !important;
 }
+.hero img{
+    border-radius:20px;
+}
+
+.form-control{
+    height:50px;
+}
+
+.btn-warning{
+    height:50px;
+    font-weight:bold;
+}
+
+.display-4{
+    font-weight:700;
+}
