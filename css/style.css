@@ -62,3 +62,16 @@ body{
 .display-4{
     font-weight:700;
 }
+.card img{
+    height:180px;
+    object-fit:cover;
+}
+
+.card{
+    border-radius:15px;
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
